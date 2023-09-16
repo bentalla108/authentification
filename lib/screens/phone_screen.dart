@@ -1,6 +1,5 @@
 import 'package:authentification/widgets/custom_button.dart';
 import 'package:authentification/widgets/custom_textfield.dart';
-
 import 'package:flutter/material.dart';
 
 class PhoneScreen extends StatefulWidget {
